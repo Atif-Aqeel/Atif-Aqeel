@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atif-Aqeel</h1>
-<h3 align="center">Student | Software Engineer</h3>
+<h3 align="center">Student | Fresh Graduate | Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-aqeel&label=Profile%20views&color=0e75b6&style=flat" alt="atif-aqeel" /> </p>
 
