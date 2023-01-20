@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atif-Aqeel</h1>
 <h3 align="center">Student | Fresh Graduate | Software Engineer </h3>
 
+<img align="right" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif" length="300" width="300" alt="gift">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-aqeel&label=Profile%20views&color=0e75b6&style=flat" alt="atif-aqeel" /> </p>
 
 - 🔭 I’m currently working on **React**
@@ -9,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Final Year Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atif-aqeel](https://github.com/atif-aqeel)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/atif-aqeel">Atif-Aqeel</a>
 
 - 💬 Ask me about **...**
 
