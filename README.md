@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atif-Aqeel</h1>
-<h3 align="center">Student | Fresh Graduate | Software Engineer </h3>
+<h3 align="center"> Fresh Graduate | Software Engineer '23 | PUCIT </h3>
 
 <img align="right" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif" length="300" width="300" alt="gift">
 
