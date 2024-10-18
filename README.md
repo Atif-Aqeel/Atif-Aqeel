@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atif-Aqeel</h1>
 <h3 align="center">Software Engineer | PUCIT'23</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-aqeel&label=Profile%20views&color=0e75b6&style=flat" alt="atif-aqeel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-aqeel&label=Atif's%20Profile%20views&color=f4c51a&style=flat-square" alt="atif-aqeel" /> </p>
 
 - 🔭 I’m currently working on **React and it's frameworks**
 
