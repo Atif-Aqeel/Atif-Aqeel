@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/atif-aqeel](https://github.com/atif-aqeel)
 
-- 📝 I regularly push practice stuffs on [https://github.com/atif-aqeel](https://github.com/atif-aqeel)
+- 📝 I regularly push practice stuff on [https://github.com/atif-aqeel](https://github.com/atif-aqeel)
 
 - 💬 Ask me about **js, coding, errors, memes, atif**
 
