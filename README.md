@@ -82,14 +82,26 @@
 </p>
 
 <br>
+<br>
 
+<div style="display: flex; align-items: center; gap: 40px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atif-aqeel&show_icons=true&locale=en&layout=compact" alt="atif-aqeel" />
+    <img src="https://github-readme-stats.vercel.app/api?username=atif-aqeel&show_icons=true&locale=en" alt="atif-aqeel" />
+</div>
+<br>
+
+<div style="margin-left: 20px;">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif-aqeel&" alt="atif-aqeel" />
+</div>
+
+
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif-aqeel&show_icons=true&locale=en&layout=compact" alt="atif-aqeel" /></p><br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif-aqeel&show_icons=true&locale=en" alt="atif-aqeel" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif-aqeel&" alt="atif-aqeel" /></p><br>
 
-<!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/atifaqeel518"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atifaqeel518" /></a>
 <a href="https://ko-fi.com/atifaqeel"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="atifaqeel" /></a></p><br><br> -->
