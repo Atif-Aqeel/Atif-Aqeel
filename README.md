@@ -89,7 +89,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif-aqeel&" alt="atif-aqeel" /></p><br>
 
+<!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/atifaqeel518"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atifaqeel518" /></a>
-<a href="https://ko-fi.com/atifaqeel"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="atifaqeel" /></a></p><br><br>
+<a href="https://ko-fi.com/atifaqeel"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="atifaqeel" /></a></p><br><br> -->
 
